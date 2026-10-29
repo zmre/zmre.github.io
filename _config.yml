@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: Homepage
-description: Test
+title: "zmre's projects"
+description: "I have a ton of side projects and I make most of the open source, but there are only a couple that I've polished up enough, for example with documentation and screenshots, to list here."
 readme_index:
   enabled:          true
   remove_originals: false
