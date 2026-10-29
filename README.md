@@ -3,7 +3,7 @@ title: zmre projects
 description: "Links to some open source projects and their documentation"
 ---
 
-# zmre projects
+# Featured projects
 
 * **MBR (Markdown Browser)** - A fast, customizable markdown previewer, browser, and static site generator
     *  [github](https://github.com/zmre/mbr-markdown-browser)
